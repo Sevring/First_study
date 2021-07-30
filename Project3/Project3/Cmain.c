@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()
@@ -21,7 +21,7 @@ int main()
 	//	max = b;
 	//	min = a;
 	//}
-	//printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿é : ");
+	//printf("ì •ìˆ˜ë¥¼ ìž…ë ¥í•˜ì„¸ìš¥ : ");
 	//scanf(" %d", &c);
 	//
 	//if (max < c)
